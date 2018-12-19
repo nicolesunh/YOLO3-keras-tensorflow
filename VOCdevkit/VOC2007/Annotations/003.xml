@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>003.jpg</filename>
+	<path>D:\0TFWin\images\003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>117</ymin>
+			<xmax>275</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

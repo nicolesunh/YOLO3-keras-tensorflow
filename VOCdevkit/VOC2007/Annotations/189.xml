@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>189.jpg</filename>
+	<path>D:\0TFWin\images\189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>567</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>145</ymin>
+			<xmax>460</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
